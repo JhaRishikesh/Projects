@@ -1,2 +1,2 @@
 # Projects
-All the Projects Done Till Now
+Projects Done Till Now
